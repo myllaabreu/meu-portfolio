@@ -1,0 +1,164 @@
+body {
+    background-color: rgb(255, 237, 240);
+    margin: 0%;
+}
+
+#menu {
+    background-color: rgb(255, 202, 196);
+    height: 1000px;
+    width: 300px;
+    text-align: center;
+    box-shadow: 5px 0px 5px rgba(255, 153, 142, 0.932);
+    margin-top: -30px;
+}
+
+.logo {
+    width: 150px;
+    margin-top: 30px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    border: 5px dotted white;
+    border-radius: 50%;
+    box-shadow: 5px 5px 5px rgba(255, 153, 142, 0.932);
+}
+h1 {
+    font-size: 1,5rem;
+    color: aliceblue;
+    font-family: cursive;
+    text-shadow: 5px 5px 5px rgba(255, 153, 142, 0.932);
+}
+h2 {
+    font-size: 2,1rem;
+    color: aliceblue;
+    font-family: cursive;
+    text-shadow: 5px 5px 5px rgba(255, 153, 142, 0.932);
+}
+.links {
+    text-decoration: none;
+    color: rgb(255, 129, 115);
+    font-weight: 600;
+    font-size: 1.2rem;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    transition: all 0.7s ease;
+    text-shadow: 5px 5px 5px rgba(255, 153, 142, 0.932);
+}
+.links:hover {
+    background-color: rgb(255, 255, 255);
+    color: pink;
+}
+
+header {
+    float: left;
+}
+
+.info01 {
+    background-color: white;
+    margin: 1.5rem 2rem 1rem 20rem;
+    padding: 1rem;
+    border-radius: 2rem;
+    box-shadow: 5px 5px 5px rgba(255, 153, 142, 0.932);
+    color:rgba(255, 153, 142, 0.932)
+}
+
+.info02 {
+    background-color:rgb(250, 211, 206);
+    margin: 1.5rem 2rem 1rem 2rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 5px rgba(255, 197, 190, 0.932);
+    width: 220px ;
+    height:220px ;
+    color: rgba(183, 62, 49, 1) ;
+}
+
+.info03 {
+    background-color:rgb(250, 211, 206);
+    margin: 1.5rem 2rem 1rem 2rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 5px rgba(255, 197, 190, 0.932);
+    width: 220px ;
+    height:220px ;
+    color: rgba(183, 62, 49, 1);
+}
+
+.info04 {
+    background-color:rgb(250, 211, 206);
+    margin: 1.5rem 2rem 1rem 2rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 5px rgba(255, 197, 190, 0.932);
+    width: 220px ;
+    height:220px ;
+    color: rgba(183, 62, 49, 1);
+}
+
+.info05 {
+    background-color:rgb(250, 211, 206);
+    margin: 1.5rem 2rem 1rem 2rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 5px rgba(255, 197, 190, 0.932);
+    width: 220px ;
+    height:220px ;
+    color:rgba(183, 62, 49, 1);
+}
+
+.info06 {
+    background-color:rgb(250, 211, 206);
+    margin: 1.5rem 2rem 1rem 2rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 5px rgba(255, 197, 190, 0.932);
+    width: 220px ;
+    height:220px ;
+    color:rgba(183, 62, 49, 1);
+}
+
+.info07 {
+    background-color:rgb(250, 211, 206);
+    margin: 1.5rem 2rem 1rem 2rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 5px rgba(255, 197, 190, 0.932);
+    width: 220px ;
+    height:220px ;
+    color:rgba(183, 62, 49, 1);
+}
+
+
+#conteudo {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+footer {
+    background-color: rgb(250, 211, 206);
+    font-size: 1.5rem;
+    text-align: center;
+    clear: both;
+    padding: 0.5rem;
+    font-family: cursive;
+    color: rgb(255, 129, 115);
+}
+
+h3 {
+    font-size: 2rem;
+    text-align: center;
+    font-family: cursive; 
+    text-shadow: 1px 1px 15px  rgba(255, 153, 142, 0.932);
+    color: rgb(255, 129, 115);
+}
+
+p {
+    font-size: 1.1;
+    text-align: center;
+    font-family: cursive;
+    font-weight: 600;
+    color:rgba(255, 153, 142, 0.932);
+}
